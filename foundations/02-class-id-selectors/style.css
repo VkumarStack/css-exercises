@@ -1,0 +1,21 @@
+/* The Odin Project CSS Exercises #2 */
+
+.odd {
+    background-color : rgb(238, 68, 167);
+    font-family : Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color : blue;
+    font-size : 36px;
+}
+
+#third {
+    font-size : 24px;
+}
+
+#fourth {
+    background-color : rgb(46, 216, 137);
+    font-size : 24px;
+    font-weight: bold;
+}
